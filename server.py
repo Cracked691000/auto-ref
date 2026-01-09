@@ -12,7 +12,7 @@ CORS(app)
 
 # --- CONFIGURATION ---
 EMAIL_USER = "jamalohioan@gmail.com"  # your email here
-EMAIL_PASS = "vwxx lhpe tuky dfpr"  # your email app password here (not email password)
+EMAIL_PASS = "fymv sibj vjvv xzfn"  # your email app password here (not email password)
 IMAP_SERVER = "imap.gmail.com"  # do not change this unless you have your own imap server
 TARGET_LABEL = "cfl"  # do not change this unless you want a specific label
 DB_FILE = "termux_bot.db"  # do not change this
